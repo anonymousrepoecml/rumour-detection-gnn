@@ -27,8 +27,8 @@ utils.py
 * Summary Transfer Learning.ipynb
 
 ### Datasets
-ottawashooting-all-rnr-threads.csv
-sydneysiege-all-rnr-threads.csv
-germanwings-crash-all-rnr-threads.csv
-charliehebdo-all-rnr-threads.csv
+* ottawashooting-all-rnr-threads.csv
+* sydneysiege-all-rnr-threads.csv
+* germanwings-crash-all-rnr-threads.csv
+* charliehebdo-all-rnr-threads.csv
 
